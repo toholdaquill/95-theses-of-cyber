@@ -30,7 +30,7 @@ Worse, on the cyber domain, we each now live next door to every spook, corrupt c
 
 Cybersecurity is the central political question of our times. How we answer this question will determine the future of human civilization--maybe even the future of the human race.
 
-These 95 these are clear statements of truth designed to cut through the bullshit and get to the heart of the matter. They will not be popular. They will anger many. I care not. In the empire of lies, the only enemy is the truth.
+These 95 theses are clear statements of truth designed to cut through the bullshit and get to the heart of the matter. They will not be popular. They will anger many. I care not. In the empire of lies, the only enemy is the truth.
 
 Here I stand, I cannot do otherwise.
 
