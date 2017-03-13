@@ -227,5 +227,3 @@ Here I stand, I cannot do otherwise.
 
 94. Security without freedom is worthless.
 
-
-(c) 2017 [J.M. Porup](https://www.JMPorup.com/) [Some Rights Reserved](LICENSE.md)
