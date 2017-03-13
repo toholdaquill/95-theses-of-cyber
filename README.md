@@ -1,4 +1,4 @@
-## 95 Theses of Computer Security
+## 95 Theses of Cyber
 
 0. Imperfect human beings are incapable of creating perfectly-secure computers.
 
