@@ -34,7 +34,7 @@ These 95 these are clear statements of truth designed to cut through the bullshi
 
 Here I stand, I cannot do otherwise.
 
-====================================
+- - - 
 
 
 0. Imperfect human beings are incapable of creating perfectly-secure computers.
