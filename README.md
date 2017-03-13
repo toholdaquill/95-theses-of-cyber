@@ -1,4 +1,39 @@
 ## 95 Theses of Cyber
+# a no-bullshit guide to power and politics on the internet
+
+
+Cyber changes everything.
+
+Used to be we talked about "going online" and "in real life." Well guess what? Now we live online and visit the real world.
+
+The two worlds are merging. The human race has now moved online, into the cyber domain. The rules are different here. But our expectations remain stuck IRL.
+
+Cyber disrupts society--politics--the economy. Who wins? Who loses? And how will it affect your life?
+
+Natural laws govern the cyber domain. Laws that explain in simple terms the complex and bewildering changes we now witness.
+
+Understande thtese natural laws and profit. Fail to learn these lessons at your peril.
+
+So why "95 Theses"?
+
+Like Martin Luther, who challenged an empire of lies with 95 clear statements of truth, I, too, throw down the gauntlet.
+
+The surveilled life is not worth living.
+
+We are all under surveillance now. Surveillance, a fancy French word, does not just watching. It means interfering.
+
+Secret agencies watch, grade, measure, and judge us to be hacked, stalked, harassed, intefered with, and disrupted, even murdered. Outside the law, these agencies have made themselves judge, jury, and executioner.
+
+This is not democracy. This is not freedom. It is a betrayal of every principle America was founded on.
+
+Worse, on the cyber domain, we each now live next door to every spook, corrupt cop, and racketeering mafioso on the planet.
+
+Cybersecurity is the central political question of our times. How we answer this question will determine the future of human civilization--maybe even the future of the human race.
+
+These 95 these are clear statements of truth designed to cut through the bullshit and get to the heart of the matter. They will not be popular. They will anger many. I care not. In the empire of lies, the only enemy is the truth.
+
+Here I stand, I cannot do otherwise
+
 
 0. Imperfect human beings are incapable of creating perfectly-secure computers.
 
