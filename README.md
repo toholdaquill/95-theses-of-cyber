@@ -12,15 +12,15 @@ Cyber disrupts society--politics--the economy. Who wins? Who loses? And how will
 
 Natural laws govern the cyber domain. Laws that explain in simple terms the complex and bewildering changes we now witness.
 
-Understande thtese natural laws and profit. Fail to learn these lessons at your peril.
+Understand thtese natural laws and profit. Fail to learn these lessons at your peril.
 
 So why "95 Theses"?
 
-Like Martin Luther, who challenged an empire of lies with 95 clear statements of truth, I, too, throw down the gauntlet.
+Like Martin Luther, who challenged an empire of lies with 95 clear statements of truth, I, too, throw down the gauntlet:
 
 The surveilled life is not worth living.
 
-We are all under surveillance now. Surveillance, a fancy French word, does not just watching. It means interfering.
+We are all under surveillance now. Surveillance, a fancy French word, does not just mean watching. It means interfering. It means control.
 
 Secret agencies watch, grade, measure, and judge us to be hacked, stalked, harassed, intefered with, and disrupted, even murdered. Outside the law, these agencies have made themselves judge, jury, and executioner.
 
@@ -32,7 +32,9 @@ Cybersecurity is the central political question of our times. How we answer this
 
 These 95 these are clear statements of truth designed to cut through the bullshit and get to the heart of the matter. They will not be popular. They will anger many. I care not. In the empire of lies, the only enemy is the truth.
 
-Here I stand, I cannot do otherwise
+Here I stand, I cannot do otherwise.
+
+====================================
 
 
 0. Imperfect human beings are incapable of creating perfectly-secure computers.
