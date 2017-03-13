@@ -1,4 +1,4 @@
-95 Theses of Cyber (c) J.M. Porup 2017 Some Rights Reserved
+95 Theses of Cyber (c) 2017 [J.M. Porup](https://www.JMPorup.com/) Some Rights Reserved
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
