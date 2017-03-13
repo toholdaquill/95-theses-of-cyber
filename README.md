@@ -226,3 +226,6 @@ Here I stand, I cannot do otherwise.
 93. Let the state stand naked before the people, and the people cloaked before the state. Of this democracy consists.
 
 94. Security without freedom is worthless.
+
+
+(c) 2017 [J.M. Porup](https://www.JMPorup.com/) [Some Rights Reserved](LICENSE.md)
