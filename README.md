@@ -12,7 +12,7 @@ Cyber disrupts society--politics--the economy. Who wins? Who loses? And how will
 
 Natural laws govern the cyber domain. Laws that explain in simple terms the complex and bewildering changes we now witness.
 
-Understand thtese natural laws and profit. Fail to learn these lessons at your peril.
+Understand these natural laws and profit. Fail to learn these lessons at your peril.
 
 So why "95 Theses"?
 
